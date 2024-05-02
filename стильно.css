@@ -1,0 +1,27 @@
+body{
+       jurassic.html {
+        background-image: url(334288-karp-19.jpg);
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+      }
+    }
+    
+    button{
+        padding:10px 20px;
+        margin:7px;
+        background-color: rgb(82, 86, 84);
+        border: none;
+        cursor: pointer;
+        border-radius: 5px;
+    }
+    button:hover {
+        button::hover{
+            background-color: rgb(6, 5, 5);
+        }
+    }
+ 
